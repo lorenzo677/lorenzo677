@@ -1,12 +1,12 @@
 ## GitHub Stats
 <p align="center">
   <a href="https://github.com/lorenzo677">
-    <img src="https://github-readme-stats.vercel.app/api?username=lorenzo677&count_private=true&show_icons=True&theme=dark&hide=issues,contribs" alt="Lorenzo's Github Stats"/></a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorenzo677&count_private=true&show_icons=True&theme=dark&hide=issues,contribs" alt="Lorenzo's Github Stats"/></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lorenzo677">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo677&layout=compact&show_icons=True&theme=dark"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenzo677&layout=compact&show_icons=True&theme=dark"/>
 </p>
 
 ## Connect with me
